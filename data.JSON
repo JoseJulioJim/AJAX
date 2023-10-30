@@ -1,8 +1,8 @@
 {
   "Materias":[
       {
-          "nombre_Materia":"Inteligencia Artificial",
-          "nombre_del_Docente":"Juan José López Banyo",
+          "Materia":"Inteligencia Artificial",
+          "Docente":"Juan José López Banyo",
           "descripcion":"En esta materia estamos actualmente aprendiendo a usar scripts para manipular un tilemap, creando caminos, costos de tiles y poner pocisiones iniciales y finales."
       },
      {
@@ -11,18 +11,18 @@
           "descripcion":"En esta materia hemos visto como aplicar el uso de físicas en un videojuego para que este sea entretenido"
      },
      {
-          "nombre_Materia":"Desarrollo de apps móviles",
-          "nombre_del_Docente":"Diana Rodriguez",
+          "Materia":"Desarrollo de apps móviles",
+          "Docente":"Diana Rodriguez",
           "descripcion":"En esta materia hemos visto como podemos diseñar nuestra UI de tal forma en la que sea agradable a la vista y fácil de entender"
      },
      {
-       "nombre_Materia":"Proyecto Semestral",
-          "nombre_del_Docente":"Rodrigo Saco",
+       "Materia":"Proyecto Semestral",
+          "Docente":"Rodrigo Saco",
           "descripcion":"En esta materia trabajamos a lo largo de todo el semestre en un proyecto, en este semestre fue uno VR en el que se usa el handtracking"
      },
      {
-       "nombre_Materia":"Desarollo web",
-          "nombre_del_Docente":"Jonathan Mircha",
+       "Materia":"Desarollo web",
+          "Docente":"Jonathan Mircha",
           "descripcion":"En esta materia hemos visto como usar HTML, CSS y JavaScript con el fin de diseñar nuestros propios sitios webs"
      }
   ]

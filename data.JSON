@@ -6,8 +6,8 @@
           "descripcion":"En esta materia estamos actualmente aprendiendo a usar scripts para manipular un tilemap, creando caminos, costos de tiles y poner pocisiones iniciales y finales."
       },
      {
-           "nombre_Materia":"Simulación física en realidad Virtual",
-          "nombre_del_Docente":"Ricardo Rodríguez",
+           "Materia":"Simulación física en realidad Virtual",
+          "Docente":"Ricardo Rodríguez",
           "descripcion":"En esta materia hemos visto como aplicar el uso de físicas en un videojuego para que este sea entretenido"
      },
      {
